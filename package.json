@@ -1,0 +1,24 @@
+{
+  "name": "sni-detector-gui",
+  "version": "1.0.0",
+  "description": "A GUI front end for sni-detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zbinlin/sni-detector-gui.git"
+  },
+  "keywords": [
+    "sni",
+    "sni",
+    "detect"
+  ],
+  "author": "zbinlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbinlin/sni-detector-gui/issues"
+  },
+  "homepage": "https://github.com/zbinlin/sni-detector-gui#readme"
+}
